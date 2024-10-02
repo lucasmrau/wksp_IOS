@@ -1,0 +1,7 @@
+{
+  "name": "Worksport",
+  "displayName": "Worksport",
+  "plugins": [
+    "expo-router"
+  ]
+}
